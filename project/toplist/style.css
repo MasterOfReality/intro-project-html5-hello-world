@@ -1,0 +1,31 @@
+* {
+   outline: 1px solid rgb(62, 49, 67) !important;
+}
+
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body { 
+	color: red; 
+	}
+
+
+.app {
+    display: flex;
+}
+.app {
+    display: -webkit-flex;
+    display: flex;
+}
+.image {
+	max-width: 460px;
+	padding: 5px;
+}
+.description {
+	max-width: 705px;
+	padding: 5px;
+	}
